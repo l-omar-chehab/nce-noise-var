@@ -1,0 +1,16 @@
+include README.md
+include requirements.txt
+include environment.yml
+include main.py
+include MANIFEST.in
+include nlica/__init__.py
+
+recursive-include nlica *.py
+recursive-include tests *.py
+recursive-include experiments *.py
+
+exclude experiments/dump
+exclude experiments/joblib
+recursive-exclude experiments/joblib *.py
+exclude archive
+recursive-exclude archive *.py

@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+matplotlib
+pytorch
+torchvision
+pytest
+pip
+tqdm
+statsmodels
+seaborn
+black
+ipython
+jupyterlab
+treetable

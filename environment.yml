@@ -1,0 +1,29 @@
+name: nce
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+- python>=3.7
+- numpy
+- pandas
+- scipy
+- matplotlib
+- pytorch
+- pytest
+- pip
+- tqdm
+- statsmodels
+- seaborn
+- black
+- ipython
+- jupyterlab
+- jupytext
+- sklearn
+- jupytext
+- htop  # no more black bars in htop in tmux on remote cluster
+- bigfloat
+- flake8
+- pip:
+  - treetable
+
