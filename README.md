@@ -36,3 +36,17 @@ python experiments/run_optimal_noise.py
 # Plot the numerically optimal noise
 python experiments/plot_optimal_noise.py
 ```
+
+### Reference
+
+If you use this code in your project, please cite:
+
+```bash
+@misc{chehab2022ncenoisevar,
+  author = {Chehab, Omar and Gramfort, Alexandre and Hyvarinen, Aapo},
+  title = {The Optimal Noise in Noise-Contrastive Learning Is Not What You Think},
+  publisher = {arXiv},
+  year = {2022},
+}
+```
+
