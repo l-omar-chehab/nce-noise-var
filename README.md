@@ -1,5 +1,7 @@
 # The Optimal Noise in Noise-Contrastive Learning Is Not What You Think
 
+Code for the paper <a href="https://arxiv.org/abs/2203.01110" target="_blank">The Optimal Noise in Noise-Contrastive Learning Is Not What You Think</a>.
+
 ### How to install
 
 From within your local repository, run
