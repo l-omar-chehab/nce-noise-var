@@ -44,11 +44,17 @@ python experiments/plot_optimal_noise.py
 If you use this code in your project, please cite:
 
 ```bib
-@misc{chehab2022ncenoisevar,
-  author = {Chehab, Omar and Gramfort, Alexandre and Hyvarinen, Aapo},
-  title = {The Optimal Noise in Noise-Contrastive Learning Is Not What You Think},
-  publisher = {arXiv},
-  year = {2022},
+@InProceedings{chehab2022ncenoisevar,
+  title = 	 {The optimal noise in noise-contrastive learning is not what you think},
+  author =       {Chehab, Omar and Gramfort, Alexandre and Hyv{\"a}rinen, Aapo},
+  booktitle = 	 {Proceedings of the Thirty-Eighth Conference on Uncertainty in Artificial Intelligence},
+  pages = 	 {307--316},
+  year = 	 {2022},
+  editor = 	 {Cussens, James and Zhang, Kun},
+  volume = 	 {180},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {01--05 Aug},
+  publisher =    {PMLR},
 }
 ```
 
